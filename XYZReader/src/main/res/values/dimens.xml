@@ -13,5 +13,6 @@
     <dimen name="fab_size">56dp</dimen>
     <dimen name="card_margin">4dp</dimen>
     <dimen name="card_elevation">4dp</dimen>
+    <dimen name="content_offset">16dp</dimen>
 
 </resources>

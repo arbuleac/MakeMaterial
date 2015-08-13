@@ -24,4 +24,5 @@
 
     <color name="muted">#333</color>
     <color name="mutedDark">#111</color>
+    <color name="byline_color">#8000</color>
 </resources>
